@@ -1,0 +1,10 @@
+numpy
+scipy
+cython
+h5py
+Pillow
+scikit-image
+tensorflow==1.15.2
+tensorflow-gpu==1.15.2
+keras==2.1.5
+jupyter
